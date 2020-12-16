@@ -1,0 +1,3385 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.359296,35.00118 ]
+    },
+    "properties": {
+    "FIPS":1,
+    "Total Food Costs":10292799.67,
+    "State":"Alabama",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.359296,35.00118 ]
+    },
+    "properties": {
+    "FIPS":1,
+    "Total Food Costs":11026597.45,
+    "State":"Alabama",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.359296,35.00118 ]
+    },
+    "properties": {
+    "FIPS":1,
+    "Total Food Costs":10380831.06,
+    "State":"Alabama",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.359296,35.00118 ]
+    },
+    "properties": {
+    "FIPS":1,
+    "Total Food Costs":11380963.77,
+    "State":"Alabama",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.359296,35.00118 ]
+    },
+    "properties": {
+    "FIPS":1,
+    "Total Food Costs":8012212.34,
+    "State":"Alabama",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.602021,55.117982 ]
+    },
+    "properties": {
+    "FIPS":2,
+    "Total Food Costs":958191.03,
+    "State":"Alaska",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.602021,55.117982 ]
+    },
+    "properties": {
+    "FIPS":2,
+    "Total Food Costs":2044246.08,
+    "State":"Alaska",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.602021,55.117982 ]
+    },
+    "properties": {
+    "FIPS":2,
+    "Total Food Costs":1539956.95,
+    "State":"Alaska",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.602021,55.117982 ]
+    },
+    "properties": {
+    "FIPS":2,
+    "Total Food Costs":1642857.81,
+    "State":"Alaska",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.602021,55.117982 ]
+    },
+    "properties": {
+    "FIPS":2,
+    "Total Food Costs":1074067.67,
+    "State":"Alaska",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.042503,37.000263 ]
+    },
+    "properties": {
+    "FIPS":4,
+    "Total Food Costs":13127269.74,
+    "State":"Arizona",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.042503,37.000263 ]
+    },
+    "properties": {
+    "FIPS":4,
+    "Total Food Costs":15500726.63,
+    "State":"Arizona",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.042503,37.000263 ]
+    },
+    "properties": {
+    "FIPS":4,
+    "Total Food Costs":12600425.72,
+    "State":"Arizona",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.042503,37.000263 ]
+    },
+    "properties": {
+    "FIPS":4,
+    "Total Food Costs":19678874.38,
+    "State":"Arizona",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.042503,37.000263 ]
+    },
+    "properties": {
+    "FIPS":4,
+    "Total Food Costs":9935722.16,
+    "State":"Arizona",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.473842,36.501861 ]
+    },
+    "properties": {
+    "FIPS":5,
+    "Total Food Costs":4427764.88,
+    "State":"Arkansas",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.473842,36.501861 ]
+    },
+    "properties": {
+    "FIPS":5,
+    "Total Food Costs":6889542.97,
+    "State":"Arkansas",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.473842,36.501861 ]
+    },
+    "properties": {
+    "FIPS":5,
+    "Total Food Costs":7267199.41,
+    "State":"Arkansas",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.473842,36.501861 ]
+    },
+    "properties": {
+    "FIPS":5,
+    "Total Food Costs":5645373.11,
+    "State":"Arkansas",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.473842,36.501861 ]
+    },
+    "properties": {
+    "FIPS":5,
+    "Total Food Costs":7283432.32,
+    "State":"Arkansas",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.233256,42.006186 ]
+    },
+    "properties": {
+    "FIPS":6,
+    "Total Food Costs":59347441.76,
+    "State":"California",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.233256,42.006186 ]
+    },
+    "properties": {
+    "FIPS":6,
+    "Total Food Costs":76564371.58,
+    "State":"California",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.233256,42.006186 ]
+    },
+    "properties": {
+    "FIPS":6,
+    "Total Food Costs":70059643.63,
+    "State":"California",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.233256,42.006186 ]
+    },
+    "properties": {
+    "FIPS":6,
+    "Total Food Costs":65288028,
+    "State":"California",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.233256,42.006186 ]
+    },
+    "properties": {
+    "FIPS":6,
+    "Total Food Costs":69839656.24,
+    "State":"California",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.919731,41.003906 ]
+    },
+    "properties": {
+    "FIPS":8,
+    "Total Food Costs":6502106.63,
+    "State":"Colorado",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.919731,41.003906 ]
+    },
+    "properties": {
+    "FIPS":8,
+    "Total Food Costs":8600527.47,
+    "State":"Colorado",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.919731,41.003906 ]
+    },
+    "properties": {
+    "FIPS":8,
+    "Total Food Costs":6524178.29,
+    "State":"Colorado",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.919731,41.003906 ]
+    },
+    "properties": {
+    "FIPS":8,
+    "Total Food Costs":6856926.54,
+    "State":"Colorado",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.919731,41.003906 ]
+    },
+    "properties": {
+    "FIPS":8,
+    "Total Food Costs":7788162.49,
+    "State":"Colorado",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.053528,42.039048 ]
+    },
+    "properties": {
+    "FIPS":9,
+    "Total Food Costs":5209765.32,
+    "State":"Connecticut",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.053528,42.039048 ]
+    },
+    "properties": {
+    "FIPS":9,
+    "Total Food Costs":6748531.42,
+    "State":"Connecticut",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.053528,42.039048 ]
+    },
+    "properties": {
+    "FIPS":9,
+    "Total Food Costs":5136867.12,
+    "State":"Connecticut",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.053528,42.039048 ]
+    },
+    "properties": {
+    "FIPS":9,
+    "Total Food Costs":4781347.88,
+    "State":"Connecticut",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.053528,42.039048 ]
+    },
+    "properties": {
+    "FIPS":9,
+    "Total Food Costs":5252138.9,
+    "State":"Connecticut",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.414089,39.804456 ]
+    },
+    "properties": {
+    "FIPS":10,
+    "Total Food Costs":1379371.01,
+    "State":"Delaware",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.414089,39.804456 ]
+    },
+    "properties": {
+    "FIPS":10,
+    "Total Food Costs":2127768.57,
+    "State":"Delaware",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.414089,39.804456 ]
+    },
+    "properties": {
+    "FIPS":10,
+    "Total Food Costs":1908132.47,
+    "State":"Delaware",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.414089,39.804456 ]
+    },
+    "properties": {
+    "FIPS":10,
+    "Total Food Costs":2157128.58,
+    "State":"Delaware",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.414089,39.804456 ]
+    },
+    "properties": {
+    "FIPS":10,
+    "Total Food Costs":2667703.84,
+    "State":"Delaware",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.035264,38.993869 ]
+    },
+    "properties": {
+    "FIPS":11,
+    "Total Food Costs":1134257.41,
+    "State":"District of Columbia",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.035264,38.993869 ]
+    },
+    "properties": {
+    "FIPS":11,
+    "Total Food Costs":1895564.66,
+    "State":"District of Columbia",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.035264,38.993869 ]
+    },
+    "properties": {
+    "FIPS":11,
+    "Total Food Costs":1652067.12,
+    "State":"District of Columbia",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.035264,38.993869 ]
+    },
+    "properties": {
+    "FIPS":11,
+    "Total Food Costs":1406558.85,
+    "State":"District of Columbia",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.035264,38.993869 ]
+    },
+    "properties": {
+    "FIPS":11,
+    "Total Food Costs":1452493.99,
+    "State":"District of Columbia",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.497137,30.997536 ]
+    },
+    "properties": {
+    "FIPS":12,
+    "Total Food Costs":33621426.52,
+    "State":"Florida",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.497137,30.997536 ]
+    },
+    "properties": {
+    "FIPS":12,
+    "Total Food Costs":41443000.19,
+    "State":"Florida",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.497137,30.997536 ]
+    },
+    "properties": {
+    "FIPS":12,
+    "Total Food Costs":34896622.51,
+    "State":"Florida",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.497137,30.997536 ]
+    },
+    "properties": {
+    "FIPS":12,
+    "Total Food Costs":25462022.54,
+    "State":"Florida",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.497137,30.997536 ]
+    },
+    "properties": {
+    "FIPS":12,
+    "Total Food Costs":36110846.71,
+    "State":"Florida",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.109191,35.00118 ]
+    },
+    "properties": {
+    "FIPS":13,
+    "Total Food Costs":21262065.5,
+    "State":"Georgia",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.109191,35.00118 ]
+    },
+    "properties": {
+    "FIPS":13,
+    "Total Food Costs":20278680.15,
+    "State":"Georgia",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.109191,35.00118 ]
+    },
+    "properties": {
+    "FIPS":13,
+    "Total Food Costs":16985114.97,
+    "State":"Georgia",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.109191,35.00118 ]
+    },
+    "properties": {
+    "FIPS":13,
+    "Total Food Costs":23087795.42,
+    "State":"Georgia",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.109191,35.00118 ]
+    },
+    "properties": {
+    "FIPS":13,
+    "Total Food Costs":14799158.61,
+    "State":"Georgia",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.634835,18.948267 ]
+    },
+    "properties": {
+    "FIPS":15,
+    "Total Food Costs":1715844.6,
+    "State":"Hawaii",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.634835,18.948267 ]
+    },
+    "properties": {
+    "FIPS":15,
+    "Total Food Costs":1290855.27,
+    "State":"Hawaii",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.634835,18.948267 ]
+    },
+    "properties": {
+    "FIPS":15,
+    "Total Food Costs":1852909.87,
+    "State":"Hawaii",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.634835,18.948267 ]
+    },
+    "properties": {
+    "FIPS":15,
+    "Total Food Costs":1295681.17,
+    "State":"Hawaii",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.634835,18.948267 ]
+    },
+    "properties": {
+    "FIPS":15,
+    "Total Food Costs":1314080.97,
+    "State":"Hawaii",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.04751,49.000239 ]
+    },
+    "properties": {
+    "FIPS":16,
+    "Total Food Costs":2110633.47,
+    "State":"Idaho",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.04751,49.000239 ]
+    },
+    "properties": {
+    "FIPS":16,
+    "Total Food Costs":1971068.51,
+    "State":"Idaho",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.04751,49.000239 ]
+    },
+    "properties": {
+    "FIPS":16,
+    "Total Food Costs":3318390.08,
+    "State":"Idaho",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.04751,49.000239 ]
+    },
+    "properties": {
+    "FIPS":16,
+    "Total Food Costs":2609752.2,
+    "State":"Idaho",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.04751,49.000239 ]
+    },
+    "properties": {
+    "FIPS":16,
+    "Total Food Costs":2630135.95,
+    "State":"Idaho",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.639984,42.510065 ]
+    },
+    "properties": {
+    "FIPS":17,
+    "Total Food Costs":23883137.52,
+    "State":"Illinois",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.639984,42.510065 ]
+    },
+    "properties": {
+    "FIPS":17,
+    "Total Food Costs":23250887.57,
+    "State":"Illinois",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.639984,42.510065 ]
+    },
+    "properties": {
+    "FIPS":17,
+    "Total Food Costs":24746208.11,
+    "State":"Illinois",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.639984,42.510065 ]
+    },
+    "properties": {
+    "FIPS":17,
+    "Total Food Costs":21346152.85,
+    "State":"Illinois",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.639984,42.510065 ]
+    },
+    "properties": {
+    "FIPS":17,
+    "Total Food Costs":23276321.15,
+    "State":"Illinois",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.990061,41.759724 ]
+    },
+    "properties": {
+    "FIPS":18,
+    "Total Food Costs":11150459.49,
+    "State":"Indiana",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.990061,41.759724 ]
+    },
+    "properties": {
+    "FIPS":18,
+    "Total Food Costs":12285710.88,
+    "State":"Indiana",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.990061,41.759724 ]
+    },
+    "properties": {
+    "FIPS":18,
+    "Total Food Costs":12676957.88,
+    "State":"Indiana",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.990061,41.759724 ]
+    },
+    "properties": {
+    "FIPS":18,
+    "Total Food Costs":11294905.12,
+    "State":"Indiana",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.990061,41.759724 ]
+    },
+    "properties": {
+    "FIPS":18,
+    "Total Food Costs":12546806.28,
+    "State":"Indiana",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.368417,43.501391 ]
+    },
+    "properties": {
+    "FIPS":19,
+    "Total Food Costs":2769927.15,
+    "State":"Iowa",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.368417,43.501391 ]
+    },
+    "properties": {
+    "FIPS":19,
+    "Total Food Costs":4967950.82,
+    "State":"Iowa",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.368417,43.501391 ]
+    },
+    "properties": {
+    "FIPS":19,
+    "Total Food Costs":4697303.01,
+    "State":"Iowa",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.368417,43.501391 ]
+    },
+    "properties": {
+    "FIPS":19,
+    "Total Food Costs":4459057.57,
+    "State":"Iowa",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.368417,43.501391 ]
+    },
+    "properties": {
+    "FIPS":19,
+    "Total Food Costs":5821916.18,
+    "State":"Iowa",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.90605,40.001626 ]
+    },
+    "properties": {
+    "FIPS":20,
+    "Total Food Costs":4582902.83,
+    "State":"Kansas",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.90605,40.001626 ]
+    },
+    "properties": {
+    "FIPS":20,
+    "Total Food Costs":4917898.31,
+    "State":"Kansas",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.90605,40.001626 ]
+    },
+    "properties": {
+    "FIPS":20,
+    "Total Food Costs":4319914.96,
+    "State":"Kansas",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.90605,40.001626 ]
+    },
+    "properties": {
+    "FIPS":20,
+    "Total Food Costs":3325446.44,
+    "State":"Kansas",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.90605,40.001626 ]
+    },
+    "properties": {
+    "FIPS":20,
+    "Total Food Costs":4047964.1,
+    "State":"Kansas",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.903347,38.769315 ]
+    },
+    "properties": {
+    "FIPS":21,
+    "Total Food Costs":6049045.63,
+    "State":"Kentucky",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.903347,38.769315 ]
+    },
+    "properties": {
+    "FIPS":21,
+    "Total Food Costs":8811129.46,
+    "State":"Kentucky",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.903347,38.769315 ]
+    },
+    "properties": {
+    "FIPS":21,
+    "Total Food Costs":8094131.87,
+    "State":"Kentucky",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.903347,38.769315 ]
+    },
+    "properties": {
+    "FIPS":21,
+    "Total Food Costs":8039957.92,
+    "State":"Kentucky",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.903347,38.769315 ]
+    },
+    "properties": {
+    "FIPS":21,
+    "Total Food Costs":10595563.92,
+    "State":"Kentucky",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.608485,33.018527 ]
+    },
+    "properties": {
+    "FIPS":22,
+    "Total Food Costs":6042255.41,
+    "State":"Louisiana",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.608485,33.018527 ]
+    },
+    "properties": {
+    "FIPS":22,
+    "Total Food Costs":9964123.73,
+    "State":"Louisiana",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.608485,33.018527 ]
+    },
+    "properties": {
+    "FIPS":22,
+    "Total Food Costs":10514008.39,
+    "State":"Louisiana",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.608485,33.018527 ]
+    },
+    "properties": {
+    "FIPS":22,
+    "Total Food Costs":10469597.57,
+    "State":"Louisiana",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.608485,33.018527 ]
+    },
+    "properties": {
+    "FIPS":22,
+    "Total Food Costs":12731320.88,
+    "State":"Louisiana",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.703921,43.057759 ]
+    },
+    "properties": {
+    "FIPS":23,
+    "Total Food Costs":2799775.91,
+    "State":"Maine",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.703921,43.057759 ]
+    },
+    "properties": {
+    "FIPS":23,
+    "Total Food Costs":2302991.48,
+    "State":"Maine",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.703921,43.057759 ]
+    },
+    "properties": {
+    "FIPS":23,
+    "Total Food Costs":1563440.98,
+    "State":"Maine",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.703921,43.057759 ]
+    },
+    "properties": {
+    "FIPS":23,
+    "Total Food Costs":2586983.52,
+    "State":"Maine",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.703921,43.057759 ]
+    },
+    "properties": {
+    "FIPS":23,
+    "Total Food Costs":2876184.17,
+    "State":"Maine",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.994645,37.95325 ]
+    },
+    "properties": {
+    "FIPS":24,
+    "Total Food Costs":4877248.93,
+    "State":"Maryland",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.994645,37.95325 ]
+    },
+    "properties": {
+    "FIPS":24,
+    "Total Food Costs":8390714.28,
+    "State":"Maryland",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.994645,37.95325 ]
+    },
+    "properties": {
+    "FIPS":24,
+    "Total Food Costs":5093898.26,
+    "State":"Maryland",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.994645,37.95325 ]
+    },
+    "properties": {
+    "FIPS":24,
+    "Total Food Costs":6770898.92,
+    "State":"Maryland",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.994645,37.95325 ]
+    },
+    "properties": {
+    "FIPS":24,
+    "Total Food Costs":5309090.14,
+    "State":"Maryland",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.917521,42.887974 ]
+    },
+    "properties": {
+    "FIPS":25,
+    "Total Food Costs":8593364.48,
+    "State":"Massachusetts",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.917521,42.887974 ]
+    },
+    "properties": {
+    "FIPS":25,
+    "Total Food Costs":9774993.47,
+    "State":"Massachusetts",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.917521,42.887974 ]
+    },
+    "properties": {
+    "FIPS":25,
+    "Total Food Costs":8620025.84,
+    "State":"Massachusetts",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.917521,42.887974 ]
+    },
+    "properties": {
+    "FIPS":25,
+    "Total Food Costs":9073341.64,
+    "State":"Massachusetts",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.917521,42.887974 ]
+    },
+    "properties": {
+    "FIPS":25,
+    "Total Food Costs":7880538.44,
+    "State":"Massachusetts",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.454238,41.732339 ]
+    },
+    "properties": {
+    "FIPS":26,
+    "Total Food Costs":17629003.37,
+    "State":"Michigan",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.454238,41.732339 ]
+    },
+    "properties": {
+    "FIPS":26,
+    "Total Food Costs":17222821.39,
+    "State":"Michigan",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.454238,41.732339 ]
+    },
+    "properties": {
+    "FIPS":26,
+    "Total Food Costs":15144426.85,
+    "State":"Michigan",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.454238,41.732339 ]
+    },
+    "properties": {
+    "FIPS":26,
+    "Total Food Costs":20055417.47,
+    "State":"Michigan",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.454238,41.732339 ]
+    },
+    "properties": {
+    "FIPS":26,
+    "Total Food Costs":20423804.07,
+    "State":"Michigan",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.014696,46.705401 ]
+    },
+    "properties": {
+    "FIPS":27,
+    "Total Food Costs":5431794.89,
+    "State":"Minnesota",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.014696,46.705401 ]
+    },
+    "properties": {
+    "FIPS":27,
+    "Total Food Costs":7365939.08,
+    "State":"Minnesota",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.014696,46.705401 ]
+    },
+    "properties": {
+    "FIPS":27,
+    "Total Food Costs":7604746.06,
+    "State":"Minnesota",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.014696,46.705401 ]
+    },
+    "properties": {
+    "FIPS":27,
+    "Total Food Costs":6455478.27,
+    "State":"Minnesota",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.014696,46.705401 ]
+    },
+    "properties": {
+    "FIPS":27,
+    "Total Food Costs":6631340.81,
+    "State":"Minnesota",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.471115,34.995703 ]
+    },
+    "properties": {
+    "FIPS":28,
+    "Total Food Costs":6114721.93,
+    "State":"Mississippi",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.471115,34.995703 ]
+    },
+    "properties": {
+    "FIPS":28,
+    "Total Food Costs":6365652.96,
+    "State":"Mississippi",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.471115,34.995703 ]
+    },
+    "properties": {
+    "FIPS":28,
+    "Total Food Costs":6337738.68,
+    "State":"Mississippi",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.471115,34.995703 ]
+    },
+    "properties": {
+    "FIPS":28,
+    "Total Food Costs":6629467.78,
+    "State":"Mississippi",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.471115,34.995703 ]
+    },
+    "properties": {
+    "FIPS":28,
+    "Total Food Costs":6521293.35,
+    "State":"Mississippi",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.833957,40.609566 ]
+    },
+    "properties": {
+    "FIPS":29,
+    "Total Food Costs":10287341.54,
+    "State":"Missouri",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.833957,40.609566 ]
+    },
+    "properties": {
+    "FIPS":29,
+    "Total Food Costs":8502694.27,
+    "State":"Missouri",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.833957,40.609566 ]
+    },
+    "properties": {
+    "FIPS":29,
+    "Total Food Costs":11547393.53,
+    "State":"Missouri",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.833957,40.609566 ]
+    },
+    "properties": {
+    "FIPS":29,
+    "Total Food Costs":10791532.44,
+    "State":"Missouri",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.833957,40.609566 ]
+    },
+    "properties": {
+    "FIPS":29,
+    "Total Food Costs":11301460.79,
+    "State":"Missouri",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,49.000239 ]
+    },
+    "properties": {
+    "FIPS":30,
+    "Total Food Costs":1851394.64,
+    "State":"Montana",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,49.000239 ]
+    },
+    "properties": {
+    "FIPS":30,
+    "Total Food Costs":1425112.81,
+    "State":"Montana",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,49.000239 ]
+    },
+    "properties": {
+    "FIPS":30,
+    "Total Food Costs":1525495.45,
+    "State":"Montana",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,49.000239 ]
+    },
+    "properties": {
+    "FIPS":30,
+    "Total Food Costs":1169028.82,
+    "State":"Montana",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,49.000239 ]
+    },
+    "properties": {
+    "FIPS":30,
+    "Total Food Costs":1159217.59,
+    "State":"Montana",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.324578,43.002989 ]
+    },
+    "properties": {
+    "FIPS":31,
+    "Total Food Costs":2246716.16,
+    "State":"Nebraska",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.324578,43.002989 ]
+    },
+    "properties": {
+    "FIPS":31,
+    "Total Food Costs":2646927.77,
+    "State":"Nebraska",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.324578,43.002989 ]
+    },
+    "properties": {
+    "FIPS":31,
+    "Total Food Costs":2487684.38,
+    "State":"Nebraska",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.324578,43.002989 ]
+    },
+    "properties": {
+    "FIPS":31,
+    "Total Food Costs":2549645.33,
+    "State":"Nebraska",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.324578,43.002989 ]
+    },
+    "properties": {
+    "FIPS":31,
+    "Total Food Costs":1851752.53,
+    "State":"Nebraska",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.027882,42.000709 ]
+    },
+    "properties": {
+    "FIPS":32,
+    "Total Food Costs":5613848.15,
+    "State":"Nevada",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.027882,42.000709 ]
+    },
+    "properties": {
+    "FIPS":32,
+    "Total Food Costs":5464655,
+    "State":"Nevada",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.027882,42.000709 ]
+    },
+    "properties": {
+    "FIPS":32,
+    "Total Food Costs":5770930.81,
+    "State":"Nevada",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.027882,42.000709 ]
+    },
+    "properties": {
+    "FIPS":32,
+    "Total Food Costs":6487789.24,
+    "State":"Nevada",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.027882,42.000709 ]
+    },
+    "properties": {
+    "FIPS":32,
+    "Total Food Costs":4447898.16,
+    "State":"Nevada",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08183,45.303304 ]
+    },
+    "properties": {
+    "FIPS":33,
+    "Total Food Costs":1464512,
+    "State":"New Hampshire",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08183,45.303304 ]
+    },
+    "properties": {
+    "FIPS":33,
+    "Total Food Costs":1530207.89,
+    "State":"New Hampshire",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08183,45.303304 ]
+    },
+    "properties": {
+    "FIPS":33,
+    "Total Food Costs":1394459.52,
+    "State":"New Hampshire",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08183,45.303304 ]
+    },
+    "properties": {
+    "FIPS":33,
+    "Total Food Costs":1506517.24,
+    "State":"New Hampshire",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08183,45.303304 ]
+    },
+    "properties": {
+    "FIPS":33,
+    "Total Food Costs":1716674.39,
+    "State":"New Hampshire",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.236547,41.14083 ]
+    },
+    "properties": {
+    "FIPS":34,
+    "Total Food Costs":11866008.37,
+    "State":"New Jersey",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.236547,41.14083 ]
+    },
+    "properties": {
+    "FIPS":34,
+    "Total Food Costs":14994892.76,
+    "State":"New Jersey",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.236547,41.14083 ]
+    },
+    "properties": {
+    "FIPS":34,
+    "Total Food Costs":15347415.58,
+    "State":"New Jersey",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.236547,41.14083 ]
+    },
+    "properties": {
+    "FIPS":34,
+    "Total Food Costs":15104223.31,
+    "State":"New Jersey",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.236547,41.14083 ]
+    },
+    "properties": {
+    "FIPS":34,
+    "Total Food Costs":17075882.17,
+    "State":"New Jersey",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.421329,37.000263 ]
+    },
+    "properties": {
+    "FIPS":35,
+    "Total Food Costs":3505755.24,
+    "State":"New Mexico",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.421329,37.000263 ]
+    },
+    "properties": {
+    "FIPS":35,
+    "Total Food Costs":5054737.65,
+    "State":"New Mexico",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.421329,37.000263 ]
+    },
+    "properties": {
+    "FIPS":35,
+    "Total Food Costs":5080985.9,
+    "State":"New Mexico",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.421329,37.000263 ]
+    },
+    "properties": {
+    "FIPS":35,
+    "Total Food Costs":4731051.5,
+    "State":"New Mexico",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.421329,37.000263 ]
+    },
+    "properties": {
+    "FIPS":35,
+    "Total Food Costs":4838559.76,
+    "State":"New Mexico",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.343806,45.013027 ]
+    },
+    "properties": {
+    "FIPS":36,
+    "Total Food Costs":33888141.97,
+    "State":"New York",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.343806,45.013027 ]
+    },
+    "properties": {
+    "FIPS":36,
+    "Total Food Costs":35810683.31,
+    "State":"New York",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.343806,45.013027 ]
+    },
+    "properties": {
+    "FIPS":36,
+    "Total Food Costs":33809223.5,
+    "State":"New York",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.343806,45.013027 ]
+    },
+    "properties": {
+    "FIPS":36,
+    "Total Food Costs":29789523.99,
+    "State":"New York",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.343806,45.013027 ]
+    },
+    "properties": {
+    "FIPS":36,
+    "Total Food Costs":37349051.27,
+    "State":"New York",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.978661,36.562108 ]
+    },
+    "properties": {
+    "FIPS":37,
+    "Total Food Costs":13614798.25,
+    "State":"North Carolina",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.978661,36.562108 ]
+    },
+    "properties": {
+    "FIPS":37,
+    "Total Food Costs":18832211.32,
+    "State":"North Carolina",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.978661,36.562108 ]
+    },
+    "properties": {
+    "FIPS":37,
+    "Total Food Costs":16709670.28,
+    "State":"North Carolina",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.978661,36.562108 ]
+    },
+    "properties": {
+    "FIPS":37,
+    "Total Food Costs":17473968.01,
+    "State":"North Carolina",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.978661,36.562108 ]
+    },
+    "properties": {
+    "FIPS":37,
+    "Total Food Costs":23664529.07,
+    "State":"North Carolina",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.228743,49.000239 ]
+    },
+    "properties": {
+    "FIPS":38,
+    "Total Food Costs":765189.87,
+    "State":"North Dakota",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.228743,49.000239 ]
+    },
+    "properties": {
+    "FIPS":38,
+    "Total Food Costs":903279.19,
+    "State":"North Dakota",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.228743,49.000239 ]
+    },
+    "properties": {
+    "FIPS":38,
+    "Total Food Costs":1156710.95,
+    "State":"North Dakota",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.228743,49.000239 ]
+    },
+    "properties": {
+    "FIPS":38,
+    "Total Food Costs":1029020.82,
+    "State":"North Dakota",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.228743,49.000239 ]
+    },
+    "properties": {
+    "FIPS":38,
+    "Total Food Costs":1124642.93,
+    "State":"North Dakota",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,41.978802 ]
+    },
+    "properties": {
+    "FIPS":39,
+    "Total Food Costs":19518954.73,
+    "State":"Ohio",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,41.978802 ]
+    },
+    "properties": {
+    "FIPS":39,
+    "Total Food Costs":25640298.57,
+    "State":"Ohio",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,41.978802 ]
+    },
+    "properties": {
+    "FIPS":39,
+    "Total Food Costs":22058090.22,
+    "State":"Ohio",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,41.978802 ]
+    },
+    "properties": {
+    "FIPS":39,
+    "Total Food Costs":16962745.23,
+    "State":"Ohio",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,41.978802 ]
+    },
+    "properties": {
+    "FIPS":39,
+    "Total Food Costs":19924734.62,
+    "State":"Ohio",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.087706,37.000263 ]
+    },
+    "properties": {
+    "FIPS":40,
+    "Total Food Costs":6643877.58,
+    "State":"Oklahoma",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.087706,37.000263 ]
+    },
+    "properties": {
+    "FIPS":40,
+    "Total Food Costs":7335986.58,
+    "State":"Oklahoma",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.087706,37.000263 ]
+    },
+    "properties": {
+    "FIPS":40,
+    "Total Food Costs":6601220.24,
+    "State":"Oklahoma",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.087706,37.000263 ]
+    },
+    "properties": {
+    "FIPS":40,
+    "Total Food Costs":8764162.49,
+    "State":"Oklahoma",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.087706,37.000263 ]
+    },
+    "properties": {
+    "FIPS":40,
+    "Total Food Costs":5201249.64,
+    "State":"Oklahoma",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.211348,46.174138 ]
+    },
+    "properties": {
+    "FIPS":41,
+    "Total Food Costs":7115062.97,
+    "State":"Oregon",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.211348,46.174138 ]
+    },
+    "properties": {
+    "FIPS":41,
+    "Total Food Costs":8657438.38,
+    "State":"Oregon",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.211348,46.174138 ]
+    },
+    "properties": {
+    "FIPS":41,
+    "Total Food Costs":8123723.32,
+    "State":"Oregon",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.211348,46.174138 ]
+    },
+    "properties": {
+    "FIPS":41,
+    "Total Food Costs":5935373.61,
+    "State":"Oregon",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.211348,46.174138 ]
+    },
+    "properties": {
+    "FIPS":41,
+    "Total Food Costs":7454671.06,
+    "State":"Oregon",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.76278,42.252649 ]
+    },
+    "properties": {
+    "FIPS":42,
+    "Total Food Costs":24423979.3,
+    "State":"Pennsylvania",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.76278,42.252649 ]
+    },
+    "properties": {
+    "FIPS":42,
+    "Total Food Costs":20067137.84,
+    "State":"Pennsylvania",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.76278,42.252649 ]
+    },
+    "properties": {
+    "FIPS":42,
+    "Total Food Costs":22112016.41,
+    "State":"Pennsylvania",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.76278,42.252649 ]
+    },
+    "properties": {
+    "FIPS":42,
+    "Total Food Costs":26494375.41,
+    "State":"Pennsylvania",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.76278,42.252649 ]
+    },
+    "properties": {
+    "FIPS":42,
+    "Total Food Costs":20371610.53,
+    "State":"Pennsylvania",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.196845,41.67757 ]
+    },
+    "properties": {
+    "FIPS":44,
+    "Total Food Costs":1621439.54,
+    "State":"Rhode Island",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.196845,41.67757 ]
+    },
+    "properties": {
+    "FIPS":44,
+    "Total Food Costs":1600473.3,
+    "State":"Rhode Island",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.196845,41.67757 ]
+    },
+    "properties": {
+    "FIPS":44,
+    "Total Food Costs":1176280.97,
+    "State":"Rhode Island",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.196845,41.67757 ]
+    },
+    "properties": {
+    "FIPS":44,
+    "Total Food Costs":1859297.28,
+    "State":"Rhode Island",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.196845,41.67757 ]
+    },
+    "properties": {
+    "FIPS":44,
+    "Total Food Costs":1411351.66,
+    "State":"Rhode Island",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764143,35.066903 ]
+    },
+    "properties": {
+    "FIPS":45,
+    "Total Food Costs":6355690.54,
+    "State":"South Carolina",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764143,35.066903 ]
+    },
+    "properties": {
+    "FIPS":45,
+    "Total Food Costs":9547344.07,
+    "State":"South Carolina",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764143,35.066903 ]
+    },
+    "properties": {
+    "FIPS":45,
+    "Total Food Costs":10280758.58,
+    "State":"South Carolina",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764143,35.066903 ]
+    },
+    "properties": {
+    "FIPS":45,
+    "Total Food Costs":8632060.56,
+    "State":"South Carolina",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.764143,35.066903 ]
+    },
+    "properties": {
+    "FIPS":45,
+    "Total Food Costs":9005694.32,
+    "State":"South Carolina",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,45.944106 ]
+    },
+    "properties": {
+    "FIPS":46,
+    "Total Food Costs":703955.01,
+    "State":"South Dakota",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,45.944106 ]
+    },
+    "properties": {
+    "FIPS":46,
+    "Total Food Costs":817145.08,
+    "State":"South Dakota",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,45.944106 ]
+    },
+    "properties": {
+    "FIPS":46,
+    "Total Food Costs":906209.14,
+    "State":"South Dakota",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,45.944106 ]
+    },
+    "properties": {
+    "FIPS":46,
+    "Total Food Costs":987507.77,
+    "State":"South Dakota",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.047534,45.944106 ]
+    },
+    "properties": {
+    "FIPS":46,
+    "Total Food Costs":1135973.6,
+    "State":"South Dakota",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.054868,36.496384 ]
+    },
+    "properties": {
+    "FIPS":47,
+    "Total Food Costs":12467248.08,
+    "State":"Tennessee",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.054868,36.496384 ]
+    },
+    "properties": {
+    "FIPS":47,
+    "Total Food Costs":13420432.9,
+    "State":"Tennessee",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.054868,36.496384 ]
+    },
+    "properties": {
+    "FIPS":47,
+    "Total Food Costs":13474668.45,
+    "State":"Tennessee",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.054868,36.496384 ]
+    },
+    "properties": {
+    "FIPS":47,
+    "Total Food Costs":8977217.96,
+    "State":"Tennessee",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.054868,36.496384 ]
+    },
+    "properties": {
+    "FIPS":47,
+    "Total Food Costs":10514993.89,
+    "State":"Tennessee",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.812942,36.501861 ]
+    },
+    "properties": {
+    "FIPS":48,
+    "Total Food Costs":36494697.41,
+    "State":"Texas",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.812942,36.501861 ]
+    },
+    "properties": {
+    "FIPS":48,
+    "Total Food Costs":47347990.39,
+    "State":"Texas",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.812942,36.501861 ]
+    },
+    "properties": {
+    "FIPS":48,
+    "Total Food Costs":45071031.52,
+    "State":"Texas",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.812942,36.501861 ]
+    },
+    "properties": {
+    "FIPS":48,
+    "Total Food Costs":44054584,
+    "State":"Texas",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.812942,36.501861 ]
+    },
+    "properties": {
+    "FIPS":48,
+    "Total Food Costs":56925435.99,
+    "State":"Texas",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.164359,41.995232 ]
+    },
+    "properties": {
+    "FIPS":49,
+    "Total Food Costs":3282446.44,
+    "State":"Utah",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.164359,41.995232 ]
+    },
+    "properties": {
+    "FIPS":49,
+    "Total Food Costs":3999839.72,
+    "State":"Utah",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.164359,41.995232 ]
+    },
+    "properties": {
+    "FIPS":49,
+    "Total Food Costs":3576895.48,
+    "State":"Utah",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.164359,41.995232 ]
+    },
+    "properties": {
+    "FIPS":49,
+    "Total Food Costs":3178212.38,
+    "State":"Utah",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.164359,41.995232 ]
+    },
+    "properties": {
+    "FIPS":49,
+    "Total Food Costs":4197854.51,
+    "State":"Utah",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.503554,45.013027 ]
+    },
+    "properties": {
+    "FIPS":50,
+    "Total Food Costs":1349708.72,
+    "State":"Vermont",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.503554,45.013027 ]
+    },
+    "properties": {
+    "FIPS":50,
+    "Total Food Costs":1112714.22,
+    "State":"Vermont",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.503554,45.013027 ]
+    },
+    "properties": {
+    "FIPS":50,
+    "Total Food Costs":715725.17,
+    "State":"Vermont",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.503554,45.013027 ]
+    },
+    "properties": {
+    "FIPS":50,
+    "Total Food Costs":1289909.33,
+    "State":"Vermont",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.503554,45.013027 ]
+    },
+    "properties": {
+    "FIPS":50,
+    "Total Food Costs":1407138.52,
+    "State":"Vermont",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.397659,38.013497 ]
+    },
+    "properties": {
+    "FIPS":51,
+    "Total Food Costs":8390772.34,
+    "State":"Virginia",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.397659,38.013497 ]
+    },
+    "properties": {
+    "FIPS":51,
+    "Total Food Costs":10548675.55,
+    "State":"Virginia",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.397659,38.013497 ]
+    },
+    "properties": {
+    "FIPS":51,
+    "Total Food Costs":10888603.64,
+    "State":"Virginia",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.397659,38.013497 ]
+    },
+    "properties": {
+    "FIPS":51,
+    "Total Food Costs":10753121.25,
+    "State":"Virginia",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.397659,38.013497 ]
+    },
+    "properties": {
+    "FIPS":51,
+    "Total Food Costs":11059451.58,
+    "State":"Virginia",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.033359,49.000239 ]
+    },
+    "properties": {
+    "FIPS":53,
+    "Total Food Costs":8900543.33,
+    "State":"Washington",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.033359,49.000239 ]
+    },
+    "properties": {
+    "FIPS":53,
+    "Total Food Costs":12639740.08,
+    "State":"Washington",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.033359,49.000239 ]
+    },
+    "properties": {
+    "FIPS":53,
+    "Total Food Costs":12823563.36,
+    "State":"Washington",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.033359,49.000239 ]
+    },
+    "properties": {
+    "FIPS":53,
+    "Total Food Costs":12111558.3,
+    "State":"Washington",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.033359,49.000239 ]
+    },
+    "properties": {
+    "FIPS":53,
+    "Total Food Costs":10899362.89,
+    "State":"Washington",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,40.636951 ]
+    },
+    "properties": {
+    "FIPS":54,
+    "Total Food Costs":3903553.84,
+    "State":"West Virginia",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,40.636951 ]
+    },
+    "properties": {
+    "FIPS":54,
+    "Total Food Costs":4102318.22,
+    "State":"West Virginia",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,40.636951 ]
+    },
+    "properties": {
+    "FIPS":54,
+    "Total Food Costs":3516628.89,
+    "State":"West Virginia",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,40.636951 ]
+    },
+    "properties": {
+    "FIPS":54,
+    "Total Food Costs":4666125.4,
+    "State":"West Virginia",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.518598,40.636951 ]
+    },
+    "properties": {
+    "FIPS":54,
+    "Total Food Costs":4132660.24,
+    "State":"West Virginia",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.415429,46.568478 ]
+    },
+    "properties": {
+    "FIPS":55,
+    "Total Food Costs":7472345.74,
+    "State":"Wisconsin",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.415429,46.568478 ]
+    },
+    "properties": {
+    "FIPS":55,
+    "Total Food Costs":9264446.55,
+    "State":"Wisconsin",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.415429,46.568478 ]
+    },
+    "properties": {
+    "FIPS":55,
+    "Total Food Costs":8916282.51,
+    "State":"Wisconsin",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.415429,46.568478 ]
+    },
+    "properties": {
+    "FIPS":55,
+    "Total Food Costs":7739954.43,
+    "State":"Wisconsin",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.415429,46.568478 ]
+    },
+    "properties": {
+    "FIPS":55,
+    "Total Food Costs":9663191.59,
+    "State":"Wisconsin",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.080842,45.002073 ]
+    },
+    "properties": {
+    "FIPS":56,
+    "Total Food Costs":760355.92,
+    "State":"Wyoming",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.080842,45.002073 ]
+    },
+    "properties": {
+    "FIPS":56,
+    "Total Food Costs":1003283.93,
+    "State":"Wyoming",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.080842,45.002073 ]
+    },
+    "properties": {
+    "FIPS":56,
+    "Total Food Costs":1073113.67,
+    "State":"Wyoming",
+    "Year":2018
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.080842,45.002073 ]
+    },
+    "properties": {
+    "FIPS":56,
+    "Total Food Costs":816517.11,
+    "State":"Wyoming",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.080842,45.002073 ]
+    },
+    "properties": {
+    "FIPS":56,
+    "Total Food Costs":862758.48,
+    "State":"Wyoming",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.448338,17.984326 ]
+    },
+    "properties": {
+    "FIPS":72,
+    "Total Food Costs":7709763.43,
+    "State":"Puerto Rico",
+    "Year":2019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.448338,17.984326 ]
+    },
+    "properties": {
+    "FIPS":72,
+    "Total Food Costs":6553862.37,
+    "State":"Puerto Rico",
+    "Year":2015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.448338,17.984326 ]
+    },
+    "properties": {
+    "FIPS":72,
+    "Total Food Costs":8877501.7,
+    "State":"Puerto Rico",
+    "Year":2016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.448338,17.984326 ]
+    },
+    "properties": {
+    "FIPS":72,
+    "Total Food Costs":10526710.94,
+    "State":"Puerto Rico",
+    "Year":2017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.448338,17.984326 ]
+    },
+    "properties": {
+    "FIPS":72,
+    "Total Food Costs":9410146.54,
+    "State":"Puerto Rico",
+    "Year":2018
+    }
+  }
+]
+}
